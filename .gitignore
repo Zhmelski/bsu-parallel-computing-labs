@@ -1,0 +1,17 @@
+# Compiled binaries and object files
+*.exe
+*.obj
+*.o
+*.out
+
+# Windows / MinGW debug files
+*.pdb
+*.ilk
+*.idb
+
+# VS Code workspace settings (contains local SDK paths)
+.vscode/
+
+# OS temporary files and cache
+.DS_Store
+Thumbs.db
